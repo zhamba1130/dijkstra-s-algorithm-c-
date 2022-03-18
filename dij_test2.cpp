@@ -293,7 +293,7 @@ void Shortest_Path::ResultOutput(){
 
 int main() {
 
-    string data_source = "C:/Users/johnny/Downloads/測資/input9";
+    string data_source = " ";
     Shortest_Path hw(data_source);
     hw.Dijkstra();
     hw.ResultOutput();
